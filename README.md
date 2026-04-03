@@ -35,4 +35,5 @@ There is no need to show data for the United Kingdom as the CEO is more interest
 ![image alt](https://github.com/DevShivam920/E-commerce-Sales-Dashboard/blob/6cec010792b00ed24ddf6a20303deec9fb9d9669/Screenshot%202026-04-03%20061513.png)
 ![image alt](https://github.com/DevShivam920/E-commerce-Sales-Dashboard/blob/d534acdb3acec75a5af8e2059acceffe6b37e68f/Screenshot%202026-04-03%20061538.png)
 ![image alt](https://github.com/DevShivam920/E-commerce-Sales-Dashboard/blob/f195a215aade52cb01fe1e9d964bd3d251b70e03/Screenshot%202026-04-03%20061559.png)
+![image alt](https://github.com/DevShivam920/E-commerce-Sales-Dashboard/blob/efb861a935308b8d9561f1a2dc2a0ed6d74d5bea/Screenshot%202026-04-03%20061707.png)
 
