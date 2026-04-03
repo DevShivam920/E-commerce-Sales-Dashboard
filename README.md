@@ -32,5 +32,5 @@ Once the CEO gets an idea of the regions that have high demand, he will initiate
 He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. 
 There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
 
-![image alt](]https://github.com/DevShivam920/E-commerce-Sales-Dashboard/blob/6cec010792b00ed24ddf6a20303deec9fb9d9669/Screenshot%202026-04-03%20061513.png)
+![image alt](https://github.com/DevShivam920/E-commerce-Sales-Dashboard/blob/6cec010792b00ed24ddf6a20303deec9fb9d9669/Screenshot%202026-04-03%20061513.png)
 
